@@ -1,1 +1,2 @@
 # Movies-ETL
+The purpose of this project was to take the data from kaggle and wikipedia on movies and to go through the ETL process. The end result was to a clean dataset that went through different transformations and was then connected to a PostgresSQL server
